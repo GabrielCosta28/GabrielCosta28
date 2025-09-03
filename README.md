@@ -20,7 +20,9 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="center" alt="C" height="40" width="40" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />  
+  <img align="center" alt="ASM" height="40" width="40" src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" />  
 </div>  
+
 
 ---
 
