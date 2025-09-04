@@ -36,7 +36,7 @@
 ## 🌐 Connect with Me  
 
 <div>  
-  <a href="https://instagram.com/rgabrielscostaaa" target="_blank">
+  <a href="https://instagram.com/gabrielscostaaa" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a href="mailto:gabrielsenatore28@gmail.com" target="_blank">
